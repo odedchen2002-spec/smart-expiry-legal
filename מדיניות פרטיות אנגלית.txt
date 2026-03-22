@@ -1,0 +1,133 @@
+Privacy Policy – Smart Expiry
+
+Last updated: December 14, 2025
+
+This Privacy Policy describes how personal information is collected, used, stored, and processed in connection with the use of the Smart Expiry application (the “App”), operated by Oded Chen, a resident of Even Yehuda, Israel (the “Operator”).
+
+Use of the App constitutes full acceptance of this Privacy Policy.
+If you do not agree to the contents hereof, you must refrain from using the App.
+
+1. Information Collected
+1.1 Information Provided by the User
+
+The App may collect information that you choose to provide, including:
+
+Name, email address, and account details
+
+Account authentication details
+
+Business data, employees, or additional users
+
+Inventory data, products, expiry dates, barcodes, categories, and notes
+
+Personal information of third parties (e.g., end customers), if and to the extent you choose to enter such information
+
+1.2 Automatically Collected Information
+
+When using the App, technical information may be collected, including:
+
+Device type, operating system, and app version
+
+Push Notification identifiers
+
+Usage data, logs, and crash data
+
+Analytics data collected through Expo Analytics
+
+2. Purposes of Information Use
+
+The information is collected and used for the following purposes:
+
+Operating the App and providing the Service
+
+Managing user accounts
+
+Sending notifications according to user settings
+
+Technical support and customer service
+
+Security, prevention of misuse, and troubleshooting
+
+Improving user experience and system stability
+
+Managing subscriptions and eligibility
+
+3. User Responsibility for Information
+
+The user is solely responsible for any information they enter into the App.
+
+The user declares and undertakes that:
+
+They have a legal right to collect, store, and process the information
+
+The information does not violate any applicable law
+
+The information does not infringe third-party rights
+
+The Operator is not responsible for the content of the information, its reliability, accuracy, or the results of its use.
+
+4. Sharing Information with Third Parties
+
+Information may be transferred to technology service providers required solely for operating the App, including:
+
+Storage and infrastructure services
+
+Notification services
+
+Analytics and crash reporting services
+
+No sale of personal information to third parties is conducted.
+
+5. Transfer of Information Outside Israel
+
+Information may be stored or processed on servers located outside Israel.
+
+There is no commitment that information will be stored within the State of Israel; however, reasonable efforts are made to protect it in accordance with applicable law.
+
+6. Information Security
+
+Reasonable technical and organizational security measures are implemented in accordance with the nature and sensitivity of the information.
+
+However, absolute security cannot be guaranteed. The user acknowledges that security incidents beyond the Operator’s control may occur and agrees that the Operator shall not be liable for such incidents.
+
+7. Data Retention
+
+Information is retained for as long as the user’s account remains active.
+
+After account closure or deletion, information may be retained for a reasonable period for operational purposes, backup, fraud prevention, or compliance with legal requirements.
+
+8. Children and Minors
+
+The App is permitted for use by users of all ages.
+
+If the user is under the age of 13, they declare and warrant that parental or legal guardian consent has been obtained for use of the App and for the collection, use, and processing of information.
+
+Responsibility for providing such consent, as well as for the collection, use, and processing of personal information of minors, lies solely with the user and/or the parent or legal guardian.
+
+If the Operator becomes aware that personal information of a minor has been collected without appropriate consent, the Operator may delete such information upon a valid request, subject to technical and legal limitations.
+
+9. User Rights
+
+The user may request:
+
+Access to personal information stored about them
+
+Correction or deletion of information
+
+Deletion of the account
+
+Cessation of receiving notifications
+
+Requests will be examined subject to technical, operational, and legal limitations.
+
+10. Policy Changes
+
+The Operator may update this Privacy Policy from time to time.
+
+Continued use of the App after the policy is updated constitutes acceptance of the updated policy.
+
+11. Contact
+
+For questions, requests, or inquiries regarding privacy:
+
+📧 expiryx5@gmail.com

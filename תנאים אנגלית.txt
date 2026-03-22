@@ -1,0 +1,146 @@
+Terms of Use – Smart Expiry
+
+Last updated: December 14, 2025
+
+This document constitutes a legally binding agreement between the user and Oded Chen, a resident of Even Yehuda, Israel (the “Operator”), regarding the use of the Smart Expiry application and all services, content, and functionality included therein (the “App”, the “Service”).
+
+Use of the App constitutes full acceptance of these Terms.
+If you do not agree to any part of these Terms, you must refrain from using the App.
+
+1. Eligibility and Age
+
+The App is permitted for users of all ages.
+
+A minor user declares and warrants that they have obtained the consent of a parent or legal guardian.
+
+Responsibility for compliance with legal requirements applicable to minors lies solely with the user and/or the guardian.
+
+2. The Service – Risk Disclosure
+
+The App is intended for information management purposes only.
+
+The App:
+
+Does not constitute business, regulatory, professional, medical, or legal advice
+
+Is not intended for use in situations where an error may cause bodily harm, health issues, safety concerns, or regulatory non-compliance
+
+Does not guarantee the accuracy, completeness, or currency of any data
+
+Use of the Service is entirely at the user’s own risk and responsibility.
+
+3. User Account and Responsibility
+
+The user is solely responsible for:
+
+All actions performed through their account
+
+Maintaining the confidentiality of login credentials
+
+Any damage caused by unauthorized access to their account
+
+The Operator is unable to monitor or verify the actual identity of users.
+
+4. Data, Content, and User’s Full Responsibility
+
+Any data entered by the user into the App, including personal information of third parties, is entered at the user’s sole responsibility.
+
+The user declares and undertakes that:
+
+They have a legal right to collect, store, and process such data
+
+The data does not violate any applicable law
+
+The data does not infringe third-party rights
+
+The Operator is not responsible for the content of the data, its reliability, accuracy, or the results of its use.
+
+5. AI, Analysis, and Recommendations – Complete Waiver
+
+The App includes automated and/or AI-based components.
+
+It is hereby declared and agreed that:
+
+Outputs may be erroneous, partial, or inaccurate
+
+Outputs must not be relied upon as the sole basis for decision-making
+
+Any use of such outputs is at the user’s sole responsibility
+
+The Operator shall bear no liability for any damage resulting from reliance on such outputs.
+
+6. Notifications – No Commitment
+
+Sending notifications is subject to factors beyond the Operator’s control, including operating systems, network conditions, and third-party services.
+
+There is no commitment regarding:
+
+Receipt of a notification
+
+Timing of a notification
+
+Whether a notification will be sent or received at all
+
+Failure to send or receive a notification shall not constitute a malfunction or give rise to any claim.
+
+7. Payments, Subscriptions, and No Refunds
+
+All payments are made exclusively through Apple App Store and/or Google Play Store.
+
+The Operator:
+
+Does not control collection, billing, renewal, or cancellation
+
+Is not responsible for payment failures
+
+Is not obligated to provide any refund, full or partial, unless required by law or store policy
+
+Non-use of the Service does not entitle the user to a refund.
+
+8. Service Termination and User Blocking
+
+The Operator may, at their sole discretion and without prior notice:
+
+Suspend or block an account
+
+Restrict access to the Service
+
+Terminate the Service, in whole or in part
+
+No claim, demand, or lawsuit shall arise in favor of the user as a result of such actions.
+
+9. Intellectual Property
+
+All intellectual property rights in the App, including but not limited to code, design, trademarks, and content, belong exclusively to the Operator.
+
+The user is granted a personal, non-exclusive, revocable license to use the App.
+No other rights, proprietary or otherwise, are granted.
+
+10. Waiver and Maximum Limitation of Liability
+
+To the maximum extent permitted by law:
+
+The Operator shall not be liable for any direct, indirect, incidental, consequential, or special damages, including but not limited to loss of profits, loss of data, damage to business, or reputational harm.
+
+Total liability, if applicable and in aggregate, shall be limited to ₪200 or the amount actually paid by the user in the three (3) months preceding the event giving rise to the claim — whichever is lower.
+
+11. Full Indemnification
+
+The user undertakes to indemnify and hold harmless the Operator from and against any claim, damage, expense, or demand (including reasonable attorneys’ fees) arising from:
+
+Use of the App
+
+Breach of these Terms
+
+Violation of any law or third-party rights
+
+12. Law and Jurisdiction
+
+These Terms shall be governed exclusively by the laws of the State of Israel.
+
+Exclusive jurisdiction shall lie with the competent courts in Tel Aviv, Israel.
+
+13. Contact
+
+For any questions or legal inquiries:
+📧 expiryx5@gmail.com
